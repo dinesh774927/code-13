@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.category {
+  background-color: transparent;
+  border: 0px;
+  margin: 0px;
+  width: 100px;
+}
+.para {
+  color: #7b8794;
+  font-family: 'Bree Serif';
+  margin: 0px;
+  font-size: 18px;
+}
+
+.change_color {
+  color: #2563eb;
+}
+.change_border {
+  border: 2px solid #2563eb;
+}
